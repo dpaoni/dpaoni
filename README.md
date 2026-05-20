@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dominic Paoni
 
-<!--
-**dpaoni/dpaoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at the University of Illinois Springfield and recent graduate of the High Tech Engineering & Cybersecurity program at Capital Area Career Center (CACC).
 
-Here are some ideas to get you started:
+## Currently
+- Starting B.S. in Cybersecurity at UIS (Fall 2025)
+- Building hands-on skills through a personal penetration testing home lab
+- Studying for CompTIA Security+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Kali Linux, Metasploit, Nmap, Gobuster, Nikto
+- VirtualBox, VM networking and configuration
+- Java, Linux command line
+- CNC machining, 3D printing
+
+## Connect
+- Email: dompaoni@gmail.com
+- Location: Springfield, IL
